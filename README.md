@@ -1,15 +1,14 @@
-# Hi there, I'm Nazia 👋  
-![WhatsApp Image 2025-08-22 at 09 16 33_ad7de22f](https://github.com/user-attachments/assets/86630b56-a8b2-461c-9a12-78386c915cbc)
+#Ooh hello👋🏼Me Nazia 
 
   
-<!-- You can replace this banner with your own design (e.g. from Canva or Figma) -->
+
 
 ## 🌱 About Me  
 - 🎓 BCA student, exploring **AI, coding, and problem-solving**  
-- 💻 Learning **JavaScript** and practicing **DSA with C**  
-- 🎬 Passionate about **video editing & cinematic storytelling** (DaVinci Resolve, CapCut, Alight Motion)  
-- 👀 Detail-oriented, empathetic, and curious — I love creating things from scratch  
-- ✨ Dreaming big: build impactful products, become a top 1% coder, and inspire others  
+- 💻 Learning **JavaScript** and python.  
+-  Also me->
+- 👀I am Detail-oriented, empathetic, and curious person I love creating things from scratch  
+- 🌟Dreaming big: build impactful products, become a top 1% coder, and inspire others through my journey🌟 
 
 ---
 
