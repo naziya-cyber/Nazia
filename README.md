@@ -1,35 +1,29 @@
-#Ooh hello👋🏼Me Nazia 
+# Hello, 👋 Welcome to my corner of github 
 
-  
-
-
-## 🌱 About Me  
-- 🎓 BCA student, exploring **AI, coding, and problem-solving**  
-- 💻 Learning **JavaScript** and python.  
--  Also me->
-- 👀I am Detail-oriented, empathetic, and curious person I love creating things from scratch  
-- 🌟Dreaming big: build impactful products, become a top 1% coder, and inspire others through my journey🌟 
+🌱 **BCA student**, exploring the world of **AI, coding, and problem-solving**.  
+💻 Currently learning **JavaScript** and **Python** while sharpening my logic with **C**.  
+✨ I’m detail-oriented, empathetic, and curious — I love building things from scratch and watching ideas come to life.  
+🌟 Dreaming big: create impactful products, grow into a top coder, and inspire others through my journey.  
 
 ---
 
 ## 🔧 Technologies & Tools  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-1E1E1E?style=for-the-badge&logo=davinci-resolve&logoColor=29A8FF)  
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats  
-![Nazia's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=classic)  
+![Nazia's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=classic)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)  
 
 ---
 
 ## ✨ A Little More About Me  
-> “I believe in growing every day — through coding, editing, and creating.  
-> My journey is about building from scratch, empowering others, and someday stepping on stage to inspire.”  
+I’m passionate about both **tech and creativity** — from coding projects to cinematic video edits.  
+For me, learning isn’t just about skills, but about creating something meaningful and inspiring others along the way.  
 
 ---
 
