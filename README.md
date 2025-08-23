@@ -1,34 +1,24 @@
-# Hello, 👋 Welcome to my corner of github 
+# 💫 About Me:
+# Hello, 👋 Welcome to my corner of github <br><br>🎓 **BCA student**, exploring the world of **AI, coding, and problem-solving**.  <br>💻 Currently learning **JavaScript** and **Python** while sharpening my logic with **C**.  <br>✨ I’m detail-oriented, empathetic, and curious — I love building things from scratch and watching ideas come to life.  <br>🌟 Dreaming big: create impactful products, grow into a top coder, and inspire others through my journey.  <br>🎨✌️For me, learning isn’t just about skills, but about creating something meaningful and inspiring others along the way.  <br>
 
-🌱 **BCA student**, exploring the world of **AI, coding, and problem-solving**.  
-💻 Currently learning **JavaScript** and **Python** while sharpening my logic with **C**.  
-✨ I’m detail-oriented, empathetic, and curious — I love building things from scratch and watching ideas come to life.  
-🌟 Dreaming big: create impactful products, grow into a top coder, and inspire others through my journey.  
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/self_scriptedd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nazia Idrisi) 
 
-## 🔧 Technologies & Tools  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=naziya-cyber&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=naziya-cyber&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naziya-cyber&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=naziya-cyber&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📊 GitHub Stats  
-![Nazia's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)  
-
----
-
-## ✨ A Little More About Me  
-I’m passionate about both **tech and creativity** — from coding projects to cinematic video edits.  
-For me, learning isn’t just about skills, but about creating something meaningful and inspiring others along the way.  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=naziya-cyber&icon=2&color=5)](https://visitcount.itsvg.in)
 
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)  
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
