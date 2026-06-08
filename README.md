@@ -1,5 +1,4 @@
-# 💫 About Me:
-# Hello, 👋 Welcome to my corner of github <br><br>🎓 **BCA student**, exploring the world of **AI, coding, and problem-solving**.  <br>💻 Currently learning **JavaScript** and **Python** while sharpening my logic with **C**.  <br>✨ I’m detail-oriented, empathetic, and curious — I love building things from scratch and watching ideas come to life.  <br>🌟 Dreaming big: create impactful products, grow into a top coder, and inspire others through my journey.  <br>🎨✌️For me, learning isn’t just about skills, but about creating something meaningful and inspiring others along the way.  <br>
+
 
 
 ## 🌐 Socials:
